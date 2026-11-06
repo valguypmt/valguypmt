@@ -1,22 +1,22 @@
 # ⚡ hi, i'm valguy!
 
-> **Freshman InfoSec Student @ Can Tho University 🎓**  
-> Just getting started on my cybersecurity journey and pushing myself to learn as much as possible every day. Excited for what's ahead — I'm gonna give it my all! 🚀
+> **InfoSec Student @ Can Tho University 🎓**  
+> Just getting started on my infomation security journey and pushing myself to learn as much as possible every day. Excited for what's ahead — I'm gonna give it my all! 🚀
 
 ---
 
 ### 🔥 What Drives Me
 - 🛡️ **Cybersecurity & InfoSec:** Deeply passionate about understanding system security, network structures, and how things work under the hood.
 - 💡 **Hands-on Learning:** I love building real projects, tinkering with servers, and solving practical problems through trial and error.
-- 🎯 **Current Goal:** Master computer science fundamentals step-by-step and build cool, secure software along the way.
+- 🎯 **Current Goal:** Master computer science fundamentals step-by-step and build cool, practical secure software along the way.
 
 ---
 
 ### 📚 Things I'm Exploring & Learning
-- [ ] Network Security & Protocols 🌐
-- [ ] System Administration & Linux Environments 🖥️
-- [ ] Web Development & Backend Security ⚡
-- [ ] Defensive & Offensive Security Fundamentals 🔐
+- Network Security & Protocols 🌐
+- System Administration & Linux Environments 🖥️
+- Web Development & Backend Security ⚡
+- Defensive & Offensive Security Fundamentals 🔐
 
 ---
 
