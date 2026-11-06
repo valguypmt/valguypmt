@@ -23,26 +23,12 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Books/Books.png" width="25" /> <font color="#ff4d4d">Currently Exploring & Learning</font>
+### 📚 Currently Exploring & Learning
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><font color="#ff4d4d">🔐 Security & Systems</font></h4>
-      <ul>
-        <li>InfoSec & Cybersec Fundamentals</li>
-        <li>Linux Systems & SysAdmin server</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4><font color="#ff4d4d">⚡ Development & Tech</font></h4>
-      <ul>
-        <li>Programming, Scripting, Frontend & Backend Logic</li>
-        <li>Web Dev, Computer Networks & Anything Else I Can Learn!</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🔐 **InfoSec & Cybersec Fundamentals**
+- 🖥️ **Linux Systems & SysAdmin server**
+- ⚡ **Programming, Scripting, Frontend & Backend Logic**
+- 🌐 **Web Dev, Computer Networks & Anything Else I Can Learn!**
 
 <br/>
 
