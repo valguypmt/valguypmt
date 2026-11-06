@@ -6,7 +6,7 @@
     <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
   </p>
 
-  > <font color="#ff4d4d"><b>Still figuring things out, breaking configs, and learning how systems work step-by-step. Definitely not an expert yet, but I'm showing up every day and giving it my best shot!</b></font>
+  > <font color="#ff4d4d"><b>Still figuring things out, breaking configs, and learning how systems work. Not an expert yet, but I'm showing up every day and give it my best!</b></font>
 
 </div>
 
@@ -58,5 +58,5 @@
 <hr>
 
 <div align="center">
-  <sub><font color="#ff4d4d"><i>“Trying my best, each commit at a time!” 💻✨</i></font></sub>
+  <sub><font color="#ff4d4d"><i>💻 “Trying my best, each commit at a time!” ✨</i></font></sub>
 </div>
