@@ -39,4 +39,4 @@
 
 ---
 
-*“Trying my best, one broken config at a time.”* 💻✨
+*“Trying my best, each commit at a time!”* 💻✨
