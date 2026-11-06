@@ -31,6 +31,15 @@
 
 <br/>
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Sullivan Server Website** | Complete web portal and ecosystem built for our simple Minecraft community servers. | `HTML` `CSS` `JS` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/SullivanServer) |
+| **CTU Student Management System (CT005D05 Coursework)** | Basic student verification & account management portal integrating web frontend with backend services. | `HTML` `CSS` `JS` `Supabase` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Project-26-27HK1-CT005D05) |
+
+</br>
+
 ### 🔗 Let's Connect
 
 <p align="left">
