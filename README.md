@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&customColorList=ff0000,990000,0d1117&height=220&section=header&text=⚡%20i'm%20valguy!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
 
   <p>
-    <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
+    <img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
   </p>
 
   > <font color="#ff4d4d"><b>Still figuring things out, breaking configs, and learning how systems work step-by-step. Definitely not an expert yet, but I'm showing up every day and giving it my best shot!</b></font>
