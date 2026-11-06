@@ -13,7 +13,7 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Tools/Hammer.png" width="25" /> <font color="#ff4d4d">What I'm Up To</font>
+### 🔨 What I'm Up To
 
 | Category | Details |
 | :--- | :--- |
@@ -46,7 +46,7 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Symbols/Link.png" width="25" /> <font color="#ff4d4d">Let's Connect</font>
+### 🔗 Let's Connect
 
 <p align="left">
   <a href="https://valguypmt.github.io" target="_blank">
