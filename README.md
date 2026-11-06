@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Deep Red & Black Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=ff0000,990000,0d1117&height=200&section=header&text=⚡%20hi,%20i'm%20valguy!&fontSize=42&fontColor=ff4d4d&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <!-- Bold Neon Red Header Banner with Rectangular Frame -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&customColorList=ff0000,800000,0d1117&height=220&section=header&text=⚡%20hi,%20i'm%20valguy!&fontSize=50&fontColor=ff2a2a&animation=twinkling&stroke=ff0000&strokeWidth=2" width="100%" alt="Header Banner"/>
+
+  <br/><br/>
 
   <p>
     <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
