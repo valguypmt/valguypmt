@@ -1,41 +1,21 @@
 <div align="center">
 
-  <!-- Custom Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1,ff0000,800000,0d1117&height=200&section=header&text=⚡%20hi,%20i'm%20valguy!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <!-- Deep Red & Black Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=ff0000,990000,0d1117&height=200&section=header&text=⚡%20hi,%20i'm%20valguy!&fontSize=42&fontColor=ff4d4d&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
 
   <p>
-    <code><b>InfoSec Student</b></code> | <code><b>Can Tho University 🎓</b></code>
+    <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
   </p>
 
-  > *Still figuring things out, breaking configs, and learning how systems work step-by-step. Definitely not an expert yet, but I'm showing up every day and giving it my best shot!*
+  > <font color="#ff4d4d"><b>Still figuring things out, breaking configs, and learning how systems work step-by-step. Definitely not an expert yet, but I'm showing up every day and giving it my best shot!</b></font>
 
 </div>
 
 <br/>
 
-### 🔨 What I'm Up To
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Tools/Hammer.png" width="25" /> <font color="#ff4d4d">What I'm Up To</font>
 
 | Category | Details |
 | :--- | :--- |
 | 🛡️ **Tinkering with Systems** | Constantly exploring how operating systems, networks, web stacks, and security fundamentals piece together from scratch. |
-| 🧪 **Practical Problem-Solving** | My favorite way to learn is by doing, building real tools for real problems, documenting the process on GitHub, breaking files, fixing them, and leveling up and learning more stuff along the way! |
-| 🎯 **Long-Term Goals** | Grinding for strong CTU academics, stacking practical certs, and building the practical muscle needed to solve real problems out in the industry. |
-
-<br/>
-
-### 📚 Currently Exploring & Learning
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔐 Security & Systems</h4>
-      <ul>
-        <li>InfoSec & Cybersec Fundamentals</li>
-        <li>Linux Systems & SysAdmin server</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Development & Tech</h4>
-      <ul>
-        <li>Programming, Scripting, Frontend & Backend Logic</li>
-        <li>Web Dev
+| 🧪 **Practical Problem-Solving** | My
