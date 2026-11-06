@@ -7,20 +7,20 @@
 
 ### 🔨 What I'm Up To
 - 🛡️ **Tinkering with Systems:** Constantly exploring how operating systems, networks, web stacks, and security fundamentals piece together from scratch.
-- 🧪 **Build, Learn, Repeat:** I learn best by doing, I like putting practical projects on GitHub, breaking setup files, fixing them, and building things to gain real hands-on experience!
-- 🎯 **The Big Picture:** Aiming for solid academic results at CTU, grinding for industry certs, and sharpening practical skills to land real-world tech roles down the road.
+- 🧪 Practical Problem-Solving: My favorite way to learn is by doing, building real tools for real problems, documenting the process on GitHub, breaking files, fixing them, and leveling up and learning more stuff along the way!
+- 🎯 Long-Term Goals: Grinding for strong CTU academics, stacking practical certs, and building the practical muscle needed to solve real problems out in the industry.
 
 ---
 
-### 📚 Currently Exploring
-- Network Security & Protocols 🌐
-- Linux Systems & Server Admin 🖥️
-- Web Development & Backend Logic ⚡
-- Core InfoSec & Defense Fundamentals 🔐
+### 📚 Currently Exploring & Learning
+- InfoSec & Cybersec Fundamentals 🔐
+- Linux Systems & SysAdmin server 🖥️
+- Programming, Scripting, Frontend & Backend Logic ⚡
+- Web Dev, Computer Networks & Anything Else I Can Learn! 🌐
 
 ---
 
-### 🌐 Let's Connect
+### 🔗 Let's Connect
 
 <p align="left">
   <a href="https://valguypmt.github.io" target="_blank">
