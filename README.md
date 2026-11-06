@@ -18,7 +18,7 @@
 - 🧪 Practical Problem-Solving: My favorite way to learn is by doing, building real tools for real problems, documenting the process on GitHub, breaking files, fixing them, and leveling up and learning more stuff along the way!
 - 🎯 Long-Term Goals: Grinding for strong CTU academics, stacking practical certs, and building the practical muscle needed to solve real problems out in the industry.
 
-<br/>
+<hr>
 
 ### 📚 Currently Exploring & Learning
 
