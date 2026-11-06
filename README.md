@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Red & Dark Wave Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&customColorList=ff0000,990000,0d1117&height=220&section=header&text=⚡%20hi,%20i'm%20valguy!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+
   <p>
     <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
   </p>
@@ -14,11 +14,9 @@
 
 ### 🔨 What I'm Up To
 
-| Category | Details |
-| :--- | :--- |
-| 🛡️ **Tinkering with Systems** | Constantly exploring how operating systems, networks, web stacks, and security fundamentals piece together from scratch. |
-| 🧪 **Practical Problem-Solving** | My favorite way to learn is by doing, building real tools for real problems, documenting the process on GitHub, breaking files, fixing them, and leveling up and learning more stuff along the way! |
-| 🎯 **Long-Term Goals** | Grinding for strong CTU academics, stacking practical certs, and building the practical muscle needed to solve real problems out in the industry. |
+- 🛡️ **Tinkering with Systems:** Constantly exploring how operating systems, networks, web stacks, and security fundamentals piece together from scratch.
+- 🧪 Practical Problem-Solving: My favorite way to learn is by doing, building real tools for real problems, documenting the process on GitHub, breaking files, fixing them, and leveling up and learning more stuff along the way!
+- 🎯 Long-Term Goals: Grinding for strong CTU academics, stacking practical certs, and building the practical muscle needed to solve real problems out in the industry.
 
 <br/>
 
