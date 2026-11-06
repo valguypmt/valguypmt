@@ -1,39 +1,42 @@
 # ⚡ hi, i'm valguy!
 
-> **InfoSec Student @ Can Tho University 🎓**  
-> Just getting started on my infomation security journey and pushing myself to learn as much as possible every day. Excited for what's ahead — I'm gonna give it my all! 🚀
+> **InfoSec Student | Can Tho University 🎓**  
+> Still figuring things out, breaking configs, and learning how systems work step-by-step. Definitely not an expert yet, but I'm showing up every day and giving it my best shot!
 
 ---
 
-### 🔥 What Drives Me
-- 🛡️ **Cybersecurity & InfoSec:** Deeply passionate about understanding system security, network structures, and how things work under the hood.
-- 💡 **Hands-on Learning:** I love building real projects, tinkering with servers, and solving practical problems through trial and error.
-- 🎯 **Current Goal:** Master computer science fundamentals step-by-step and build cool, practical secure software along the way.
+### 🔨 What I'm Up To
+- 🛡️ **Tinkering with Systems:** Constantly exploring how operating systems, networks, web stacks, and security fundamentals piece together from scratch.
+- 🧪 **Build, Learn, Repeat:** I learn best by doing, I like putting practical projects on GitHub, breaking setup files, fixing them, and building things to gain real hands-on experience!
+- 🎯 **The Big Picture:** Aiming for solid academic results at CTU, grinding for industry certs, and sharpening practical skills to land real-world tech roles down the road.
 
 ---
 
-### 📚 Things I'm Exploring & Learning
+### 📚 Currently Exploring
 - Network Security & Protocols 🌐
-- System Administration & Linux Environments 🖥️
-- Web Development & Backend Security ⚡
-- Defensive & Offensive Security Fundamentals 🔐
+- Linux Systems & Server Admin 🖥️
+- Web Development & Backend Logic ⚡
+- Core InfoSec & Defense Fundamentals 🔐
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/valguypmt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-valguypmt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://valguypmt.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-valguypmt.github.io-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Personal Website" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.facebook.com/valguypmt" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="YOUR_SOCIAL_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Social-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Social" />
+  <a href="https://id.zalo.me/account/login?continue=http%3A%2F%2Fzalo.me%2F0911252707" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-Chat-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" />
+  </a>
+  <a href="mailto:valguypmt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-*“Trying my best, one commit at a time.”* 💻✨
+*“Trying my best, one broken config at a time.”* 💻✨
