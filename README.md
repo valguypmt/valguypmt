@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
   <a href="https://github.com/valguypmt"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&customColorList=ff0000,990000,0d1117&height=220&section=header&text=⚡%20i'm%20valguy!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
 
@@ -15,17 +15,17 @@
 ### 🔨 What I'm Up To
 
 - 🛡️ **Tinkering with Systems:** Constantly exploring how operating systems, networks, web stacks, and security fundamentals piece together from scratch.
-- 🧪 Practical Problem-Solving: My favorite way to learn is by doing, building real tools for real problems, documenting the process on GitHub, breaking files, fixing them, and leveling up and learning more stuff along the way!
-- 🎯 Long-Term Goals: Grinding for strong CTU academics, stacking practical certs, and building the practical muscle needed to solve real problems out in the industry.
+- 🧪 **Practical Problem-Solving:** My favorite way to learn is by doing, building real tools for real problems, documenting the process on GitHub, breaking files, fixing them, and leveling up and learning more stuff along the way!
+- 🎯 **Long-Term Goals:** Grinding for strong academics, stacking practical certs, and building the practical muscle needed to solve real problems out in the industry.
 
 <hr>
 
 ### 📚 Currently Exploring & Learning
 
 - 🔐 **InfoSec & Cybersec Fundamentals**
-- 🖥️ **Linux Systems & SysAdmin server**
+- 🖥️ **Linux Systems & SysAdmin**
 - ⚡ **Programming, Scripting, Frontend & Backend Logic**
-- 🌐 **Web Dev, Computer Networks & Anything Else I Can Learn!**
+- 🌐 **Web Dev, Computer Networks, IoT & Machine Learning**
 
 <hr>
 
