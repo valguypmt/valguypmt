@@ -32,10 +32,12 @@
 ### 🚀 Featured Projects
 
 
+
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Sullivan Server Website** | Complete web portal and ecosystem built for our simple Minecraft community servers. | `HTML` `CSS` `JS` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/SullivanServer) [<img src="https://shields.io" />](https://github.io) |
-| **CTU Student Management System (CT005D05 Coursework)** | Online Student Account Management & Verification Portal built with HTML/CSS/JS and Supabase Backend for CTU CT005D05 course. | `HTML` `CSS` `JS` `PostgreSQL` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Project-26-27HK1-CT005D05) [<img src="https://shields.io" />](https://github.io) |
+| **Sullivan Server Website** | Complete web portal and ecosystem built for our simple Minecraft community servers. | `HTML` `CSS` `JS` | [<img src="https://shields.io" />](https://github.com) [<img src="https://shields.io" />](https://valguypmt.github.io/SullivanServer/) |
+| **CTU Student Management System (CT005D05 Coursework)** | Online Student Account Management & Verification Portal built with HTML/CSS/JS and Supabase Backend for CTU CT005D05 course. | `HTML` `CSS` `JS` `PostgreSQL` | [<img src="https://shields.io" />](https://github.com) [<img src="https://shields.io" />](https://valguypmt.github.io/Project-26-27HK1-CT005D05/) |
+
 
 <hr>
 
