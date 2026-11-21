@@ -36,7 +36,7 @@
 | :--- | :--- | :--- | :--- |
 | **Sullivan Server Website** | Complete web portal and ecosystem built for our simple Minecraft community servers. | `HTML` `CSS` `JS` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/SullivanServer) |
 | **CTU Student Management System (CT005D05 Coursework)** | Online Student Account Management & Verification Portal built with HTML/CSS/JS and Supabase Backend for CTU CT005D05 course. | `HTML` `CSS` `JS` `PostgreSQL` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Project-26-27HK1-CT005D05) |
-| **My personal portfolio website** | My personal portfolio website, featuring information about me, my journey, projects, and ways to get in touch. | `HTML` `CSS` `JS` `threejs` `Vite` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Valguypmt-Portfolio) |
+| **Valguy's Portfolio** | My personal portfolio website, featuring information about me, my journey, projects, and ways to get in touch. | `HTML` `CSS` `JS` `threejs` `Vite` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Valguypmt-Portfolio) |
 
 
 <hr>
