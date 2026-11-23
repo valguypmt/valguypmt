@@ -1,3 +1,5 @@
+<div align="center">
+
   <a href="https://valguy.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&customColorList=ff0000,990000,0d1117&height=220&section=header&text=⚡%20i'm%20valguy!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
 
   <p>
