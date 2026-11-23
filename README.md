@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://valguy.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-https://valguy.vercel.app-ff2a2a?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0000" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/Website-valguy.vercel.app-ff2a2a?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0000" alt="Personal Website" />
   </a>
   <a href="https://www.facebook.com/valguypmt" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
