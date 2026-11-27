@@ -24,7 +24,7 @@
 
 - 🔐 **InfoSec & Cybersec Fundamentals**
 - 🖥️ **Linux Systems & SysAdmin**
-- ⚡ **Programming, Scripting, Frontend & Backend Logic**
+- ⚡ **Programming, Scripting & Full-stack Dev**
 - 🌐 **Web Dev, Computer Networks, IoT & Machine Learning**
 
 <hr>
