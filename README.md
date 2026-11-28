@@ -3,7 +3,7 @@
 <a href="https://valguy.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&customColorList=ff0000,990000,0d1117&height=220&section=header&text=⚡%20Hi!%20I'm%20Valguy!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/></a>
 
   <p>
-    <a href="https://valguy.vercel.app/"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
+    <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
   </p>
 
   <p align="center">
@@ -42,9 +42,9 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Sullivan Server Website** | Complete web portal and ecosystem built for our simple Minecraft community servers. | `HTML` `CSS` `JS` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/SullivanServer) [<img src="https://img.shields.io/badge/Live_Deploy-ff2a2a?style=flat-square&logo=vercel&logoColor=white" />](https://sullivan.vercel.app) |
-| **CTU Student Management System (CT005D05 Coursework)** | Online Student Account Management & Verification Portal built with HTML/CSS/JS and Supabase Backend for CTU CT005D05 course. | `HTML` `CSS` `JS` `PostgreSQL` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Project-26-27HK1-CT005D05) [<img src="https://img.shields.io/badge/Live_Deploy-ff2a2a?style=flat-square&logo=githubpages&logoColor=white" />](https://ctu-htql.vercel.app/) |
-| **Valguy's Portfolio** | My personal portfolio website, featuring information about me, my journey, projects, and ways to get in touch. | `HTML` `CSS` `JS` `threejs` `Vite` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Valguypmt-Portfolio) [<img src="https://img.shields.io/badge/Live_Deploy-ff2a2a?style=flat-square&logo=vercel&logoColor=white" />](https://valguy.vercel.app/) |
+| **Sullivan Server Website** | Complete web portal and ecosystem built for our simple Minecraft community servers. | `HTML` `CSS` `JS` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/SullivanServer) [<img src="https://img.shields.io/badge/Live_Deploy-181717?style=flat-square&logo=vercel&logoColor=white" />](https://sullivan.vercel.app) |
+| **CTU Student Management System (CT005D05 Coursework)** | Online Student Account Management & Verification Portal built with HTML/CSS/JS and Supabase Backend for CTU CT005D05 course. | `HTML` `CSS` `JS` `PostgreSQL` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Project-26-27HK1-CT005D05) [<img src="https://img.shields.io/badge/Live_Deploy-181717?style=flat-square&logo=vercel&logoColor=white" />](https://ctu-htql.vercel.app/) |
+| **Valguy's Portfolio** | My personal portfolio website, featuring information about me, my journey, projects, and ways to get in touch. | `HTML` `CSS` `JS` `threejs` `Vite` | [<img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/valguypmt/Valguypmt-Portfolio) [<img src="https://img.shields.io/badge/Live_Deploy-181717?style=flat-square&logo=vercel&logoColor=white" />](https://valguy.vercel.app/) |
 
 <hr>
 
