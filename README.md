@@ -2,12 +2,12 @@
 
   <a href="https://valguy.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&customColorList=ff0000,990000,0d1117&height=200&section=header&text=⚡%20Hi!%20I'm%20Valguy!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/></a>
 
-  <a href="https://valguy.vercel.app/"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
+  <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" width="95%" />
   </picture>
 
   > <font color="#ff4d4d"><b>Still figuring things out, breaking configs, and slowly piecing together how systems work. Not an expert yet, and I still have a lot to learn, but I'm committed to the grind and never give up!</b></font>
