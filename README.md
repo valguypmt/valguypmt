@@ -7,7 +7,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" width="95%" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=3" width="95%" />
   </picture>
 
   > <font color="#ff4d4d"><b>Still figuring things out, breaking configs, and slowly piecing together how systems work. Not an expert yet, and I still have a lot to learn, but I'm committed to the grind and never give up!</b></font>
