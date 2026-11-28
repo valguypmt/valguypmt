@@ -2,18 +2,17 @@
 
   <a href="https://valguy.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&customColorList=ff0000,990000,0d1117&height=200&section=header&text=⚡%20Hi!%20I'm%20Valguy!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/></a>
 
-  <a href="https://github.com/valguypmt"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
+  <a href="https://valguy.vercel.app/"><img src="https://img.shields.io/badge/InfoSec_Student-Can_Tho_University_🎓-ff2a2a?style=for-the-badge&labelColor=0d1117" alt="CTU InfoSec"/></a>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=3" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/valguypmt/valguypmt/output/github-contribution-grid-snake-dark.svg?v=3" width="95%" />
   </picture>
 
   > <font color="#ff4d4d"><b>Still figuring things out, breaking configs, and slowly piecing together how systems work. Not an expert yet, and I still have a lot to learn, but I'm committed to the grind and never give up!</b></font>
 
 </div>
-
 
 <hr>
 
@@ -46,10 +45,9 @@
 ### 📈 Progress So Far
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=valguypmt&show_icons=true&rank_icon=github&title_color=ff2a2a&icon_color=ff4d4d&text_color=ffffff&bg_color=0d1117&border_color=30363d" height="170" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valguypmt&show_icons=true&rank_icon=github&title_color=ff2a2a&icon_color=ff4d4d&text_color=ffffff&bg_color=0d1117&border_color=30363d" height="170" alt="My GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valguypmt&layout=compact&title_color=ff2a2a&text_color=ffffff&bg_color=0d1117&border_color=30363d" height="170" alt="Most Used Languages" />
 </p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=valguypmt&background=0d1117&border=30363d&ring=ff2a2a&fire=ff4d4d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2a2a&sideLabels=ff4d4d&dates=8b949e" alt="GitHub Streak" />
@@ -66,7 +64,7 @@
   <a href="https://www.facebook.com/valguypmt" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-    <a href="https://discord.com/users/892308773899739147" target="_blank">
+  <a href="https://discord.com/users/892308773899739147" target="_blank">
     <img src="https://img.shields.io/badge/Discord-valguypmt-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://zalo.me/0911252707" target="_blank">
